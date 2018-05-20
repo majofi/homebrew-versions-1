@@ -2,7 +2,7 @@ class Elasticsearch17 < Formula
   desc "Distributed search & analytics engine"
   homepage "https://www.elastic.co/products/elasticsearch"
   url "https://download.elastic.co/elasticsearch/elasticsearch/elasticsearch-1.3.7.tar.gz"
-  sha256 "78affc30353730ec245dad1f17de242a4ad12cf808eaa87dd878e1ca10ed77df"
+  sha256 "4e09b381915836edacc0170aca0c038a576e88ea08fa77531dd5029d374cffed"
 
   bottle :unneeded
 
